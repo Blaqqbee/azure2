@@ -1,0 +1,42 @@
+body {
+    background-image: url(blockfuse.jpg);
+}
+
+#unique {
+    margin: 0.2;
+}
+
+.red {
+    border-color: red;
+}
+
+/* Group three members data */
+table {
+    width: 70%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid;
+    padding: 0.5%;
+
+}
+
+/* CHILDREN */
+#children {
+    background-image: url(https://images.unsplash.com/photo-1649981518676-0d032ebd7fb8?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: 100px;
+    color: red;
+}
+
+img {
+    width: 20px;
+    border-bottom: 1px;
+    margin-top: 6px;
+}
+
+.blue {
+    background-color: blue;
+    border-color: white;
+}
